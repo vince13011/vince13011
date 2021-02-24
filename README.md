@@ -7,7 +7,7 @@
 
 ## Mes Projets Git
 
-Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout un code claire et compréhensible car c'est ici l'objectif principal en plus de vous montrer mes compétences.
+Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout un code clair et compréhensible car c'est ici l'objectif principal en plus de vous montrer mes compétences.
 
 ## Le Mot de la fin
 
