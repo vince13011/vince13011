@@ -9,6 +9,12 @@
 
 Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout un code clair et compréhensible car c'est ici l'objectif principal en plus de vous montrer mes compétences.
 
+API e-commerce: https://github.com/vince13011/ecommerce-backend
+le lien du site relié à l'API c-dessus:
+https://switch-ecommerce.netlify.app/
+
+API de demonstration: https://github.com/vince13011/Portfolio-BoardGames
+
 ## Le Mot de la fin
 
 J'espère que ce que vous allez voir vous plaira. Je suis ouvert à toute critique qui sera constructive et merci d'avoir consulté mon profil
