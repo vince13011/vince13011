@@ -15,7 +15,7 @@ https://switch-ecommerce.netlify.app/
 
 API de demonstration: https://github.com/vince13011/Portfolio-BoardGames
 
-Mini jeu en JS Vanilla: https://github.com/vince13011/Game-JS-Vanilla/blob/main/README.md
+Mini jeu en JS Vanilla: https://github.com/vince13011/Game-JS-Vanilla/blob/main/README.md  
 Le jeu en ligne: https://vince13011.github.io/Game-JS-Vanilla/
 
 
