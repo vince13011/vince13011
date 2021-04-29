@@ -9,7 +9,7 @@
 
 Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout un code clair et compréhensible car c'est ici l'objectif principal en plus de vous montrer mes compétences.
 
-Mon CV codé en React: https://cv-vincent-giglio.herokuapp.com/
+Mon CV codé en React: https://https://cv-vincent-giglio.netlify.app/
 
 API e-commerce: https://github.com/vince13011/ecommerce-backend  
 le lien du site relié à l'API c-dessus:
