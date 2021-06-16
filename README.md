@@ -15,7 +15,8 @@ Mon CV codé en React: https://cv-vincent-giglio.netlify.app/
 
 Une page type news/article simplment codé en html css  
 https://vince13011.github.io/studentsnews-static/  
- Ceci est simplement une page de démo, les liens contenu dans cette page ne sont donc pas fonctionnels.
+Ceci est simplement une page de démo, les liens contenu dans cette page ne sont donc pas fonctionnels.  
+Lien du code: https://github.com/vince13011/studentsnews-static
   
  ### Back End  
  
