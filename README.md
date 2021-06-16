@@ -9,12 +9,16 @@
 
 Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout un code clair et compréhensible car c'est ici l'objectif principal en plus de vous montrer mes compétences.
 
+### Front End  
+
 Mon CV codé en React: https://cv-vincent-giglio.netlify.app/
 
 Une page type news/article simplment codé en html css  
 https://vince13011.github.io/studentsnews-static/  
  Ceci est simplement une page de démo, les liens contenu dans cette page ne sont donc pas fonctionnels.
-
+  
+ ### Back End  
+ 
 API e-commerce: https://github.com/vince13011/ecommerce-backend  
 le lien du site relié à l'API c-dessus:
 https://switch-ecommerce.netlify.app/
