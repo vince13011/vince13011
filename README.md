@@ -13,8 +13,8 @@ Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout
 
 Mon CV codé en React: https://cv-vincent-giglio.netlify.app/
 
-une application  e-commerce codée en React avec redux  
-attention chargement des données plus ou moins long au lancement de l'application sous netlify  
+Une application  e-commerce codée en React avec redux  
+Attention chargement des données plus ou moins long au lancement de l'application sous netlify  
 https://switch-ecommerce.netlify.app/
 
 
