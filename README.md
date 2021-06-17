@@ -12,7 +12,7 @@ Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout
 ### Front End  
 
 Mon CV codé en React  
-pré version design simpliste
+pré version design simpliste  
 https://cv-vincent-giglio.netlify.app/
 
 Une application  e-commerce codée en React avec redux  
