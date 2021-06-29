@@ -18,7 +18,7 @@ lien du code: https://github.com/vince13011/CV
 
 Une application  e-commerce codée en React avec redux  
 Attention chargement des données plus ou moins long au lancement de l'application sous netlify  
-https://switch-ecommerce.netlify.app/
+https://switch-ecommerce.netlify.app/  
 lien du code Front:  
 https://github.com/vince13011/switch-front-end  
 (Lien de l'API plus bas)
