@@ -11,8 +11,8 @@ Vous trouverez sur mon profil des projets qui ont pour but de montrer avant tout
 
 ### Front End  
 
-Mon CV codé en React  
-Pré version design simpliste  
+Mon CV codé en React (toujours en cours de réalisation)
+version design simpliste  
 https://cv-vincent-giglio.netlify.app/  
 lien du code: https://github.com/vince13011/CV
 
