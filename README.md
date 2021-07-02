@@ -16,14 +16,14 @@ version design simpliste
 https://cv-vincent-giglio.netlify.app/  
 lien du code: https://github.com/vince13011/CV
 
-Une application  e-commerce codée en React avec redux  
-Attention chargement des données plus ou moins long au lancement de l'application sous netlify  
+SWITCH, une application  e-commerce codée en React avec redux  
+Attention chargement des données plus ou moins long au lancement de l'application dans sa V1 sous netlify  
 https://switch-ecommerce.netlify.app/  
 lien du code Front: https://github.com/vince13011/switch-front-end  
 (Lien de l'API plus bas)
 
 
-Une page type news/article simplment codé en html css  
+Une page type journal/news simplement codé en html css  
 https://vince13011.github.io/studentsnews-static/  
 Ceci est simplement une page de démo, les liens contenu dans cette page ne sont donc pas fonctionnels.  
 Lien du code: https://github.com/vince13011/studentsnews-static
