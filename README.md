@@ -17,7 +17,7 @@ https://cv-vincent-giglio.netlify.app/
 lien du code: https://github.com/vince13011/CV
 
 SWITCH, une application  e-commerce codée en React avec redux  
-Attention chargement des données plus ou moins long au lancement de l'application dans sa V1 sous netlify  
+Attention chargement des données plus ou moins long au lancement de l'application dans sa V1 (en cours de résolution)    
 https://switch-ecommerce.netlify.app/  
 lien du code Front: https://github.com/vince13011/switch-front-end  
 (Lien de l'API plus bas)
