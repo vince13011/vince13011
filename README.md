@@ -18,7 +18,7 @@ lien du code: https://github.com/vince13011/CV
 
 SWITCH, une application  e-commerce codée en React avec redux  
 Attention chargement des données plus ou moins long au lancement de l'application dans sa version démo   
-https://switch-ecommerce-template.netlify.app/   
+https://template-switch-ecommerce.netlify.app/   
 lien du code Front: https://github.com/vince13011/switch-front-end  
 (Lien de l'API plus bas)
 
@@ -31,8 +31,8 @@ Lien du code: https://github.com/vince13011/studentsnews-static
  ### Back End  
  
 API e-commerce: https://github.com/vince13011/ecommerce-backend  
-Le lien du site relié à l'API c-dessus:
-https://switch-ecommerce-template.netlify.app/
+Le lien du site relié à l'API c-dessus:   
+https://template-switch-ecommerce.netlify.app/   
 
 API de demonstration: https://github.com/vince13011/Portfolio-BoardGames  
 Avec quelques skills et quelques outils qui sont listés dans le README.md du projet
