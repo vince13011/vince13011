@@ -32,7 +32,7 @@ Lien du code: https://github.com/vince13011/studentsnews-static
  
 API e-commerce: https://github.com/vince13011/ecommerce-backend  
 Le lien du site relié à l'API c-dessus:
-https://switch-ecommerce.netlify.app/
+https://switch-ecommerce-template.netlify.app/
 
 API de demonstration: https://github.com/vince13011/Portfolio-BoardGames  
 Avec quelques skills et quelques outils qui sont listés dans le README.md du projet
